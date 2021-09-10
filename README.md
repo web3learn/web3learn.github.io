@@ -4,7 +4,7 @@ LBDS is a program focused on encouraging students to learn blockchain developmen
 
 ## Resources
 
-This is not in any perticualr order.
+This is not in any particular order.
 
 #
 
