@@ -1,6 +1,6 @@
-# LBD | S
+# Sidechain Learning
 
-LBDS is a program focused on encouraging students to learn blockchain development and providing them with learning resources.
+Sidechain Learning is a program focused on encouraging students to learn blockchain development and providing them with learning resources.
 
 ## Resources
 
