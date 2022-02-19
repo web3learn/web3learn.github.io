@@ -10,3 +10,7 @@ body {
     margin-top: 10rem;
 }
 
+#text {
+    background-color: white;  
+    text-align: center;
+}
