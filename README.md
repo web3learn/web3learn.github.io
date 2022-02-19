@@ -1,6 +1,6 @@
-# Sidechain Learn
+# web3learn
 
-Sidechain Learning is a program focused on encouraging students to learn blockchain development and providing them with learning resources.
+web3learn Learning is a program focused on encouraging students to learn blockchain & web3 development and providing them with learning resources.
 
 ## Resources
 
